@@ -1,0 +1,19 @@
+{
+  "name": "nodewiki",
+  "version": "0.0.1",
+  "description": "A test package to experiment running TiddlyWiki on Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tiddly",
+    "TiddlyWiki",
+    "wiki"
+  ],
+  "author": "terrible-coder",
+  "license": "MIT",
+  "dependencies": {
+    "tiddlywiki": "^5.1.23"
+  }
+}
